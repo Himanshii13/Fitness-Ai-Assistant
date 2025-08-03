@@ -2,7 +2,7 @@
 
 Fitness Ai Assistant is a virtual fitness companion built using IBM Watsonx.ai . It helps you stay fit with personalized workouts, simple meal suggestions, healthy habit tracking, and daily motivation — all designed to fit into your lifestyle, not interrupt it.
 
-![WhatsApp Image 2025-08-02 at 11 51 14 PM](https://github.com/user-attachments/assets/53dcde49-0275-4503-b91f-336beb7dcd94)
+
 
 # 🧩 Problem Statement
 In today’s fast-paced world, many individuals struggle to maintain a healthy lifestyle due to lack of personalized guidance, time constraints, and inconsistent motivation. Traditional fitness solutions often require expensive subscriptions, in-person consultations, or rigid schedules that don’t adapt to personal preferences or daily routines.
